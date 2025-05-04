@@ -2,7 +2,7 @@
 
 # 配置文件路径
 CONFIG_FILE="/etc/config/homeproxy"
-URL_FILE="url_file.txt"
+URL_FILE="remote_urls.txt"
 
 # 生成配置文件--节点设置
 generate_config_content_jd() {
